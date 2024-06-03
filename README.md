@@ -4,7 +4,6 @@
 An sophisticated hospital management system for hospitals to manage users and much more..!!
 
 
-
 ## Environment Variables
 
 To run this project, you will need to add the following environment variables to your .env file in ./server directory
@@ -22,6 +21,15 @@ To run this project, you will need to add the following environment variables to
 - Bcrypt for hashing passwords and JWT for authentication.
 - Redux for efficient state management.
 - Search functionalities for doctor,patient and staff.
+  
+## Technologies Used
+
+-React
+-Mongo DB
+-JavaScript
+-HTML
+-CSS
+-Render
 
 
 ## Run Locally
