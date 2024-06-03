@@ -24,12 +24,12 @@ To run this project, you will need to add the following environment variables to
   
 ## Technologies Used
 
-|React|  
-|Mongo DB|    
-|JavaScript|    
-|HTML|    
-|CSS|   
-|Render|
+-React     
+-Mongo DB            
+-JavaScript       
+-HTML     
+-CSS    
+-Render   
 
 
 ## Run Locally
